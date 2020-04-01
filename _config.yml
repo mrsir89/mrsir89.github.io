@@ -1,4 +1,4 @@
-title: Texture Theme
+title: Mr.Sir's blog
 author: Mrsir
 email: mrsir89@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -21,6 +21,7 @@ texture:
   style: black
   showNav: false
   showPicker: false
+  disqus_shortname: games
 
   # generate social links in footer
   social_links:

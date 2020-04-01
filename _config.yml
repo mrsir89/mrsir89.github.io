@@ -8,9 +8,6 @@ description: > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
-remote_theme: thelehhman/texture
-theme: texture
-
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -40,7 +37,9 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+theme: texture
+
+remote_theme: thelehhman/texture
 
 plugins:
   - jekyll-seo-tag
